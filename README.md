@@ -1,5 +1,6 @@
-# PostfixToInfix 
-Two programs using the class StringDoubleEndedQueueImpl <T>. 
+# 2 Programs using StringDoubleEndedQueueImpl
+  
+Two programs using the class StringDoubleEndedQueueImpl. 
 ## 1st Program: PostfixtoInfix 
   Converts a valid Postfix expression enterd by the user to a Infix expression.
   
