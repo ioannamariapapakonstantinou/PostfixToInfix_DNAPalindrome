@@ -2,7 +2,7 @@
   
 Two programs using the class StringDoubleEndedQueueImpl. 
 ## 1st Program: PostfixtoInfix 
-  Converts a valid Postfix expression enterd by the user to a Infix expression.
+  Converts a valid Postfix expression entered by the user to a Infix expression.
   
   e.g. 2 3 1 * + 9 - becomes ((2+(3*1))-9).
   
